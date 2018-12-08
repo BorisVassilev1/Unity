@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obuchenie.Plugins", "obuchenie.Plugins.csproj", "{56C4BE5C-1E7C-633B-06F1-BA1EC6B8A4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obuchenie", "obuchenie.csproj", "{CB93681C-5E01-0E97-24BC-55E596C7C0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obuchenie.Editor", "obuchenie.Editor.csproj", "{27CAC67F-C13A-08CC-6DA9-41F965681662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56C4BE5C-1E7C-633B-06F1-BA1EC6B8A4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C4BE5C-1E7C-633B-06F1-BA1EC6B8A4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C4BE5C-1E7C-633B-06F1-BA1EC6B8A4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C4BE5C-1E7C-633B-06F1-BA1EC6B8A4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB93681C-5E01-0E97-24BC-55E596C7C0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB93681C-5E01-0E97-24BC-55E596C7C0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB93681C-5E01-0E97-24BC-55E596C7C0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB93681C-5E01-0E97-24BC-55E596C7C0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CAC67F-C13A-08CC-6DA9-41F965681662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CAC67F-C13A-08CC-6DA9-41F965681662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CAC67F-C13A-08CC-6DA9-41F965681662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CAC67F-C13A-08CC-6DA9-41F965681662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

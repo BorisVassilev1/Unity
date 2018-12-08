@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navmesh&Pathfinding", "Assembly-CSharp-firstpass.csproj", "{A7544942-8198-2F69-5E24-3A74700011DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navmesh&Pathfinding", "Assembly-CSharp.csproj", "{91234DD3-AFDF-90E8-CE2A-BDA333651E0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7544942-8198-2F69-5E24-3A74700011DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7544942-8198-2F69-5E24-3A74700011DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7544942-8198-2F69-5E24-3A74700011DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7544942-8198-2F69-5E24-3A74700011DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91234DD3-AFDF-90E8-CE2A-BDA333651E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91234DD3-AFDF-90E8-CE2A-BDA333651E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91234DD3-AFDF-90E8-CE2A-BDA333651E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91234DD3-AFDF-90E8-CE2A-BDA333651E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

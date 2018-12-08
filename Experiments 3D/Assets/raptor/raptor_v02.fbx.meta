@@ -1,0 +1,681 @@
+fileFormatVersion: 2
+guid: 6adc618f7afbd1243b53ab744cb39d3f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: back
+    100002: body
+    100004: finger1
+    100006: finger1 1
+    100008: finger1 2
+    100010: finger1 3
+    100012: finger2
+    100014: finger2 1
+    100016: finger2 2
+    100018: finger2 3
+    100020: finger3
+    100022: finger3 1
+    100024: finger3 2
+    100026: finger3 3
+    100028: group2
+    100030: group2 1
+    100032: group3
+    100034: group3 1
+    100036: group4
+    100038: group4 1
+    100040: head
+    100042: l_arm
+    100044: l_eye
+    100046: l_fist
+    100048: l_fist 1
+    100050: l_foot
+    100052: l_foot 1
+    100054: l_hand
+    100056: l_hand 1
+    100058: l_leg
+    100060: neck
+    100062: pCone2
+    100064: pCone2 1
+    100066: pCone2 10
+    100068: pCone2 11
+    100070: pCone2 2
+    100072: pCone2 3
+    100074: pCone2 4
+    100076: pCone2 5
+    100078: pCone2 6
+    100080: pCone2 7
+    100082: pCone2 8
+    100084: pCone2 9
+    100086: pCube10
+    100088: pCube12
+    100090: pCube12 1
+    100092: pCube13
+    100094: pCube13 1
+    100096: pCube14
+    100098: pCube14 1
+    100100: pCube15
+    100102: pCube16
+    100104: pCube17
+    100106: pCube18
+    100108: pCube19
+    100110: pCube19 1
+    100112: pCube19 2
+    100114: pCube19 3
+    100116: pCube19 4
+    100118: pCube2
+    100120: pCube20
+    100122: pCube20 1
+    100124: pCube20 2
+    100126: pCube20 3
+    100128: pCube20 4
+    100130: pCube21
+    100132: pCube22
+    100134: pCube22 1
+    100136: pCube22 2
+    100138: pCube22 3
+    100140: pCube3
+    100142: pCube4
+    100144: pCube5
+    100146: pCube6
+    100148: pCube7
+    100150: pCube8
+    100152: pCube9
+    100154: pCylinder1
+    100156: pCylinder10
+    100158: pCylinder10 1
+    100160: pCylinder11
+    100162: pCylinder11 1
+    100164: pCylinder12
+    100166: pCylinder12 1
+    100168: pCylinder13
+    100170: pCylinder14
+    100172: pCylinder14 1
+    100174: pCylinder15
+    100176: pCylinder15 1
+    100178: pCylinder16
+    100180: pCylinder16 1
+    100182: pCylinder17
+    100184: pCylinder17 1
+    100186: pCylinder17 10
+    100188: pCylinder17 11
+    100190: pCylinder17 2
+    100192: pCylinder17 3
+    100194: pCylinder17 4
+    100196: pCylinder17 5
+    100198: pCylinder17 6
+    100200: pCylinder17 7
+    100202: pCylinder17 8
+    100204: pCylinder17 9
+    100206: pCylinder2
+    100208: pCylinder3
+    100210: pCylinder4
+    100212: pCylinder5
+    100214: pCylinder6
+    100216: pCylinder7
+    100218: pCylinder8
+    100220: pCylinder9
+    100222: pCylinder9 1
+    100224: polySurface10
+    100226: polySurface11
+    100228: polySurface12
+    100230: polySurface13
+    100232: polySurface3
+    100234: polySurface4
+    100236: polySurface5
+    100238: polySurface6
+    100240: polySurface8
+    100242: polySurface8 1
+    100244: polySurface9
+    100246: polySurface9 1
+    100248: r_arm
+    100250: r_eye
+    100252: r_leg
+    100254: //RootNode
+    100256: segment1
+    100258: segment2
+    100260: segment3
+    100262: segment4
+    100264: segment5
+    100266: segment6
+    100268: segment7
+    100270: segment8
+    100272: tail
+    100274: transform1
+    100276: transform2
+    100278: vertebrae1
+    100280: vertebrae2
+    100282: vertebrae3
+    100284: vertebrae4
+    100286: vertebrae5
+    400000: back
+    400002: body
+    400004: finger1
+    400006: finger1 1
+    400008: finger1 2
+    400010: finger1 3
+    400012: finger2
+    400014: finger2 1
+    400016: finger2 2
+    400018: finger2 3
+    400020: finger3
+    400022: finger3 1
+    400024: finger3 2
+    400026: finger3 3
+    400028: group2
+    400030: group2 1
+    400032: group3
+    400034: group3 1
+    400036: group4
+    400038: group4 1
+    400040: head
+    400042: l_arm
+    400044: l_eye
+    400046: l_fist
+    400048: l_fist 1
+    400050: l_foot
+    400052: l_foot 1
+    400054: l_hand
+    400056: l_hand 1
+    400058: l_leg
+    400060: neck
+    400062: pCone2
+    400064: pCone2 1
+    400066: pCone2 10
+    400068: pCone2 11
+    400070: pCone2 2
+    400072: pCone2 3
+    400074: pCone2 4
+    400076: pCone2 5
+    400078: pCone2 6
+    400080: pCone2 7
+    400082: pCone2 8
+    400084: pCone2 9
+    400086: pCube10
+    400088: pCube12
+    400090: pCube12 1
+    400092: pCube13
+    400094: pCube13 1
+    400096: pCube14
+    400098: pCube14 1
+    400100: pCube15
+    400102: pCube16
+    400104: pCube17
+    400106: pCube18
+    400108: pCube19
+    400110: pCube19 1
+    400112: pCube19 2
+    400114: pCube19 3
+    400116: pCube19 4
+    400118: pCube2
+    400120: pCube20
+    400122: pCube20 1
+    400124: pCube20 2
+    400126: pCube20 3
+    400128: pCube20 4
+    400130: pCube21
+    400132: pCube22
+    400134: pCube22 1
+    400136: pCube22 2
+    400138: pCube22 3
+    400140: pCube3
+    400142: pCube4
+    400144: pCube5
+    400146: pCube6
+    400148: pCube7
+    400150: pCube8
+    400152: pCube9
+    400154: pCylinder1
+    400156: pCylinder10
+    400158: pCylinder10 1
+    400160: pCylinder11
+    400162: pCylinder11 1
+    400164: pCylinder12
+    400166: pCylinder12 1
+    400168: pCylinder13
+    400170: pCylinder14
+    400172: pCylinder14 1
+    400174: pCylinder15
+    400176: pCylinder15 1
+    400178: pCylinder16
+    400180: pCylinder16 1
+    400182: pCylinder17
+    400184: pCylinder17 1
+    400186: pCylinder17 10
+    400188: pCylinder17 11
+    400190: pCylinder17 2
+    400192: pCylinder17 3
+    400194: pCylinder17 4
+    400196: pCylinder17 5
+    400198: pCylinder17 6
+    400200: pCylinder17 7
+    400202: pCylinder17 8
+    400204: pCylinder17 9
+    400206: pCylinder2
+    400208: pCylinder3
+    400210: pCylinder4
+    400212: pCylinder5
+    400214: pCylinder6
+    400216: pCylinder7
+    400218: pCylinder8
+    400220: pCylinder9
+    400222: pCylinder9 1
+    400224: polySurface10
+    400226: polySurface11
+    400228: polySurface12
+    400230: polySurface13
+    400232: polySurface3
+    400234: polySurface4
+    400236: polySurface5
+    400238: polySurface6
+    400240: polySurface8
+    400242: polySurface8 1
+    400244: polySurface9
+    400246: polySurface9 1
+    400248: r_arm
+    400250: r_eye
+    400252: r_leg
+    400254: //RootNode
+    400256: segment1
+    400258: segment2
+    400260: segment3
+    400262: segment4
+    400264: segment5
+    400266: segment6
+    400268: segment7
+    400270: segment8
+    400272: tail
+    400274: transform1
+    400276: transform2
+    400278: vertebrae1
+    400280: vertebrae2
+    400282: vertebrae3
+    400284: vertebrae4
+    400286: vertebrae5
+    2100000: color2
+    2100002: color3
+    2100004: color4
+    2100006: color1
+    2100008: lambert1
+    2100010: eyesColor
+    2300000: back
+    2300002: l_eye
+    2300004: pCone2
+    2300006: pCone2 1
+    2300008: pCone2 10
+    2300010: pCone2 11
+    2300012: pCone2 2
+    2300014: pCone2 3
+    2300016: pCone2 4
+    2300018: pCone2 5
+    2300020: pCone2 6
+    2300022: pCone2 7
+    2300024: pCone2 8
+    2300026: pCone2 9
+    2300028: pCube10
+    2300030: pCube12
+    2300032: pCube12 1
+    2300034: pCube13
+    2300036: pCube13 1
+    2300038: pCube14
+    2300040: pCube14 1
+    2300042: pCube15
+    2300044: pCube19
+    2300046: pCube19 1
+    2300048: pCube19 2
+    2300050: pCube19 3
+    2300052: pCube19 4
+    2300054: pCube2
+    2300056: pCube20
+    2300058: pCube20 1
+    2300060: pCube20 2
+    2300062: pCube20 3
+    2300064: pCube20 4
+    2300066: pCube21
+    2300068: pCube22
+    2300070: pCube22 1
+    2300072: pCube22 2
+    2300074: pCube22 3
+    2300076: pCube3
+    2300078: pCube4
+    2300080: pCube5
+    2300082: pCube6
+    2300084: pCube7
+    2300086: pCube8
+    2300088: pCube9
+    2300090: pCylinder1
+    2300092: pCylinder10
+    2300094: pCylinder10 1
+    2300096: pCylinder11
+    2300098: pCylinder11 1
+    2300100: pCylinder12
+    2300102: pCylinder12 1
+    2300104: pCylinder13
+    2300106: pCylinder14
+    2300108: pCylinder14 1
+    2300110: pCylinder15
+    2300112: pCylinder15 1
+    2300114: pCylinder16
+    2300116: pCylinder16 1
+    2300118: pCylinder17
+    2300120: pCylinder17 1
+    2300122: pCylinder17 10
+    2300124: pCylinder17 11
+    2300126: pCylinder17 2
+    2300128: pCylinder17 3
+    2300130: pCylinder17 4
+    2300132: pCylinder17 5
+    2300134: pCylinder17 6
+    2300136: pCylinder17 7
+    2300138: pCylinder17 8
+    2300140: pCylinder17 9
+    2300142: pCylinder2
+    2300144: pCylinder3
+    2300146: pCylinder4
+    2300148: pCylinder5
+    2300150: pCylinder6
+    2300152: pCylinder7
+    2300154: pCylinder8
+    2300156: pCylinder9
+    2300158: pCylinder9 1
+    2300160: polySurface10
+    2300162: polySurface11
+    2300164: polySurface12
+    2300166: polySurface13
+    2300168: polySurface3
+    2300170: polySurface4
+    2300172: polySurface5
+    2300174: polySurface8
+    2300176: polySurface8 1
+    2300178: polySurface9
+    2300180: polySurface9 1
+    2300182: r_eye
+    3300000: back
+    3300002: l_eye
+    3300004: pCone2
+    3300006: pCone2 1
+    3300008: pCone2 10
+    3300010: pCone2 11
+    3300012: pCone2 2
+    3300014: pCone2 3
+    3300016: pCone2 4
+    3300018: pCone2 5
+    3300020: pCone2 6
+    3300022: pCone2 7
+    3300024: pCone2 8
+    3300026: pCone2 9
+    3300028: pCube10
+    3300030: pCube12
+    3300032: pCube12 1
+    3300034: pCube13
+    3300036: pCube13 1
+    3300038: pCube14
+    3300040: pCube14 1
+    3300042: pCube15
+    3300044: pCube19
+    3300046: pCube19 1
+    3300048: pCube19 2
+    3300050: pCube19 3
+    3300052: pCube19 4
+    3300054: pCube2
+    3300056: pCube20
+    3300058: pCube20 1
+    3300060: pCube20 2
+    3300062: pCube20 3
+    3300064: pCube20 4
+    3300066: pCube21
+    3300068: pCube22
+    3300070: pCube22 1
+    3300072: pCube22 2
+    3300074: pCube22 3
+    3300076: pCube3
+    3300078: pCube4
+    3300080: pCube5
+    3300082: pCube6
+    3300084: pCube7
+    3300086: pCube8
+    3300088: pCube9
+    3300090: pCylinder1
+    3300092: pCylinder10
+    3300094: pCylinder10 1
+    3300096: pCylinder11
+    3300098: pCylinder11 1
+    3300100: pCylinder12
+    3300102: pCylinder12 1
+    3300104: pCylinder13
+    3300106: pCylinder14
+    3300108: pCylinder14 1
+    3300110: pCylinder15
+    3300112: pCylinder15 1
+    3300114: pCylinder16
+    3300116: pCylinder16 1
+    3300118: pCylinder17
+    3300120: pCylinder17 1
+    3300122: pCylinder17 10
+    3300124: pCylinder17 11
+    3300126: pCylinder17 2
+    3300128: pCylinder17 3
+    3300130: pCylinder17 4
+    3300132: pCylinder17 5
+    3300134: pCylinder17 6
+    3300136: pCylinder17 7
+    3300138: pCylinder17 8
+    3300140: pCylinder17 9
+    3300142: pCylinder2
+    3300144: pCylinder3
+    3300146: pCylinder4
+    3300148: pCylinder5
+    3300150: pCylinder6
+    3300152: pCylinder7
+    3300154: pCylinder8
+    3300156: pCylinder9
+    3300158: pCylinder9 1
+    3300160: polySurface10
+    3300162: polySurface11
+    3300164: polySurface12
+    3300166: polySurface13
+    3300168: polySurface3
+    3300170: polySurface4
+    3300172: polySurface5
+    3300174: polySurface8
+    3300176: polySurface8 1
+    3300178: polySurface9
+    3300180: polySurface9 1
+    3300182: r_eye
+    4300000: pCube2
+    4300002: pCylinder1
+    4300004: pCube3
+    4300006: pCylinder2
+    4300008: pCube4
+    4300010: pCylinder3
+    4300012: pCylinder4
+    4300014: pCube5
+    4300016: pCube6
+    4300018: pCylinder5
+    4300020: pCube7
+    4300022: pCylinder6
+    4300024: pCube8
+    4300026: pCylinder7
+    4300028: pCube9
+    4300030: pCylinder8
+    4300032: pCylinder9
+    4300034: pCube12
+    4300036: pCylinder10
+    4300038: pCube13
+    4300040: pCylinder11
+    4300042: pCube14
+    4300044: pCylinder12
+    4300046: pCube22
+    4300048: pCylinder17
+    4300050: pCone2
+    4300052: pCylinder17
+    4300054: pCone2
+    4300056: pCylinder17
+    4300058: pCone2
+    4300060: pCylinder14
+    4300062: polySurface8
+    4300064: pCylinder15
+    4300066: polySurface9
+    4300068: pCube22
+    4300070: pCylinder16
+    4300072: pCylinder17
+    4300074: pCone2
+    4300076: pCylinder17
+    4300078: pCone2
+    4300080: pCylinder17
+    4300082: pCone2
+    4300084: pCube20
+    4300086: pCube19
+    4300088: pCube20
+    4300090: pCube19
+    4300092: pCube20
+    4300094: pCube19
+    4300096: pCube20
+    4300098: pCube19
+    4300100: pCube20
+    4300102: pCube19
+    4300104: pCube15
+    4300106: pCube10
+    4300108: back
+    4300110: polySurface10
+    4300112: polySurface11
+    4300114: polySurface4
+    4300116: polySurface5
+    4300118: polySurface12
+    4300120: polySurface13
+    4300122: pCylinder13
+    4300124: pCube21
+    4300126: polySurface3
+    4300128: r_eye
+    4300130: l_eye
+    4300132: pCylinder9
+    4300134: pCube12
+    4300136: pCylinder10
+    4300138: pCube13
+    4300140: pCylinder11
+    4300142: pCube14
+    4300144: pCylinder12
+    4300146: pCube22
+    4300148: pCylinder17
+    4300150: pCone2
+    4300152: pCylinder17
+    4300154: pCone2
+    4300156: pCylinder17
+    4300158: pCone2
+    4300160: pCylinder14
+    4300162: polySurface8
+    4300164: pCylinder15
+    4300166: polySurface9
+    4300168: pCube22
+    4300170: pCylinder16
+    4300172: pCylinder17
+    4300174: pCone2
+    4300176: pCylinder17
+    4300178: pCone2
+    4300180: pCylinder17
+    4300182: pCone2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color1
+    second: {fileID: 2100000, guid: c0bdd97f0d8363b408230d45fe0501d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color2
+    second: {fileID: 2100000, guid: bf61b117d81ce3543a303c5af910adf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color3
+    second: {fileID: 2100000, guid: 8c174461538ffc8468c54f6d6277a55d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color4
+    second: {fileID: 2100000, guid: be4cd23d056ad0546a8bb8d6a7335df6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyesColor
+    second: {fileID: 2100000, guid: b276ef3fc3aae4c4dabd17c84bf8e61f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

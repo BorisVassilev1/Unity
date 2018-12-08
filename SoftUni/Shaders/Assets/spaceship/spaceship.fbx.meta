@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 6bd4c818f05a01b4490d9d9a84d4da14
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: back
+    100002: back 1
+    100004: base
+    100006: base 1
+    100008: control
+    100010: door
+    100012: engine
+    100014: engine 1
+    100016: front
+    100018: front 1
+    100020: front_glass
+    100022: glass
+    100024: l_wing
+    100026: lamp
+    100028: light1
+    100030: light2
+    100032: r_wing
+    100034: rotors
+    100036: rotors 1
+    100038: seat1
+    100040: seat2
+    100042: seat3
+    100044: seat4
+    100046: seat5
+    100048: seat6
+    100050: seat7
+    100052: seat8
+    100054: seats
+    100056: //RootNode
+    100058: stairs
+    400000: back
+    400002: back 1
+    400004: base
+    400006: base 1
+    400008: control
+    400010: door
+    400012: engine
+    400014: engine 1
+    400016: front
+    400018: front 1
+    400020: front_glass
+    400022: glass
+    400024: l_wing
+    400026: lamp
+    400028: light1
+    400030: light2
+    400032: r_wing
+    400034: rotors
+    400036: rotors 1
+    400038: seat1
+    400040: seat2
+    400042: seat3
+    400044: seat4
+    400046: seat5
+    400048: seat6
+    400050: seat7
+    400052: seat8
+    400054: seats
+    400056: //RootNode
+    400058: stairs
+    2100000: lambert1
+    2100002: sinio
+    2100004: metal
+    2100006: staklo
+    2100008: cherno
+    2100010: lambert2
+    2300000: back
+    2300002: back 1
+    2300004: base
+    2300006: base 1
+    2300008: control
+    2300010: door
+    2300012: engine
+    2300014: engine 1
+    2300016: front
+    2300018: front 1
+    2300020: front_glass
+    2300022: glass
+    2300024: seat1
+    2300026: seat2
+    2300028: seat3
+    2300030: seat4
+    2300032: seat5
+    2300034: seat6
+    2300036: seat7
+    2300038: seat8
+    2300040: //RootNode
+    2300042: stairs
+    3300000: back
+    3300002: back 1
+    3300004: base
+    3300006: base 1
+    3300008: control
+    3300010: door
+    3300012: engine
+    3300014: engine 1
+    3300016: front
+    3300018: front 1
+    3300020: front_glass
+    3300022: glass
+    3300024: seat1
+    3300026: seat2
+    3300028: seat3
+    3300030: seat4
+    3300032: seat5
+    3300034: seat6
+    3300036: seat7
+    3300038: seat8
+    3300040: //RootNode
+    3300042: stairs
+    4300000: spaceship
+    4300002: seat1
+    4300004: seat2
+    4300006: seat3
+    4300008: seat4
+    4300010: seat5
+    4300012: seat6
+    4300014: seat7
+    4300016: seat8
+    4300018: front_glass
+    4300020: base
+    4300022: engine
+    4300024: front
+    4300026: back
+    4300028: base
+    4300030: engine
+    4300032: front
+    4300034: back
+    4300036: control
+    4300038: stairs
+    4300040: door
+    4300042: glass
+    10800000: light1
+    10800002: light2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cherno
+    second: {fileID: 2100000, guid: 48c24f408d4258c4abe0e6a62acefd4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 6b052b76073883c488b1b8521e8fd480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: b1428ec6a1e08cc4ead8fa871f3eb02d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 4f8268a6356387c4a9e41bd6bc182e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sinio
+    second: {fileID: 2100000, guid: b36ba8732c766764d8d0b05880955154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: staklo
+    second: {fileID: 2100000, guid: a22e66a3f05ede148a9f2f288b9ff60f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

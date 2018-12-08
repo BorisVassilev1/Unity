@@ -1,0 +1,30 @@
+tree("Root")
+	parallel
+		tree("patrol")
+		tree("checkHealth")
+
+tree("patrol")
+	fallback 
+		while not IsPlayerNear
+			tree("walking")
+		sequence
+			TargetPlayer
+			LookAtTarget
+			Move(1.3)
+			tree("attack")
+			
+
+tree("walking")
+	sequence
+		SelectTarget
+		LookAtTarget
+		Walk
+
+tree("checkHealth")
+	while not HasHealth
+		Die
+
+tree("attack")
+	sequence
+		Attack
+		Wait 1.0

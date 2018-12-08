@@ -1,0 +1,29 @@
+tree("Root")
+	parallel
+		mute tree("CheckHealth")
+		mute tree("DoSth")
+
+tree("CheckHealth")
+	while IsHealthLessThan(1)
+		Die
+
+tree("DoSth")
+	fallback
+		while not IsPlayerNear
+			sequence
+				SelectTarget
+				LookAtTarget
+				MoveToTarget(1.0)
+		sequence
+			TargetPlayer
+			MoveToTarget(6.0)
+			tree("Attack")
+
+tree("Attack")
+	while CanShootPlayer
+		repeat
+			sequence
+				Attack
+				Wait 3.0
+
+			
