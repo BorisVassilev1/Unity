@@ -1,0 +1,6 @@
+tree("RunAway")
+	while IsHealthLessThan(40.0)
+		while IsInDanger(40.0)
+			sequence
+				Run
+				MoveToDestination

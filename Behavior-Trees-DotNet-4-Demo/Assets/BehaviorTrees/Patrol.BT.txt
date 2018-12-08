@@ -1,0 +1,8 @@
+tree("Patrol")
+	fallback
+		tree("RunAway")
+		while not IsHealthLessThan(40.0)
+			fallback
+				tree("Attack")
+				tree("LookAround")
+				tree("Travel")

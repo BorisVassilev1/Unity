@@ -1,0 +1,3 @@
+tree("Status")
+	while not IsAlive
+		Die

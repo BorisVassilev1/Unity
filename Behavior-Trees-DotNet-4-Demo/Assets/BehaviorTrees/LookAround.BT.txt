@@ -1,0 +1,14 @@
+tree("LookAround")
+	while not IsHealthLessThan(40.0)
+		while not IsPlayerNear
+			sequence
+				random
+					Turn(90.0)
+					Turn(-120.0)
+					Turn(10.0)
+					Turn(-200.0)
+				LookAtTarget
+				WaitRandom(1.5, 3.0)
+				random(1, 2)
+					Succeed
+					Fail

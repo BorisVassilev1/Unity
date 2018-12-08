@@ -1,0 +1,4 @@
+Assets/ScriptableRenderPipeline/
+Assets/SRP/ScriptableRenderPipeline/LightweightPipeline/Shaders
+C:\Users\Boby\AppData\Local\Unity\cache\packages\staging-packages.unity.com\com.unity.render-pipelines.core@0.1.21
+C:\Users\Boby\AppData\Local\Unity\cache\packages\staging-packages.unity.com\com.unity.render-pipelines.lightweight@0.1.21\Shaders

@@ -1,0 +1,5 @@
+tree("Travel")
+	while not IsPlayerNear
+		sequence
+			PickDestination
+			MoveToDestination

@@ -1,0 +1,15 @@
+tree("Attack")
+	while IsPlayerNear
+		sequence
+			TargetPlayer
+			LookAtTarget
+			fallback
+				while IsAbleToShoot
+					sequence
+						Wait(0.5)
+						Fire
+				while not IsAbleToShoot
+					sequence
+						SetTargetDestination
+						MoveToDestination
+				
