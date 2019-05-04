@@ -107,40 +107,40 @@
     <None Include="Assets\PandaBehaviour\Examples\02_PlayTag\Assets\PlayTag.BT.txt" />
     <None Include="Assets\PandaBehaviour\ChangeLog.txt" />
     <Reference Include="com.unity.render-pipelines.core.Editor">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.render-pipelines.core.Editor.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.render-pipelines.core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.render-pipelines.core.Runtime">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.render-pipelines.core.Runtime.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.render-pipelines.core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.render-pipelines.lightweight.Runtime">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Runtime.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.render-pipelines.lightweight.Editor">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Editor.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.render-pipelines.lightweight.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.postprocessing.Editor">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.postprocessing.Runtime">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.render-pipelines.core.IncludePaths">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.render-pipelines.core.IncludePaths.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Library/ScriptAssemblies/com.unity.render-pipelines.core.IncludePaths.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Devel/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -338,7 +338,7 @@
       <HintPath>C:/Devel/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="PandaBehaviour">
-      <HintPath>C:/Boby/Java 30.3.2018/programming/unity/Project SoftUni 2018/Assets/PandaBehaviour/Core/PandaBehaviour.dll</HintPath>
+      <HintPath>C:/Boby/programming/Unity/Project SoftUni 2018/Assets/PandaBehaviour/Core/PandaBehaviour.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/boris/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
